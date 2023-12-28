@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mwersebe aka Matt Wersebe
 - 👀 I’m interested in the Ecological and Evolutionary Genomics of Daphnia.
-- 🌱 I’m currently learning a little of everything. But I really need to learn Python.
+- 🌱 I’m currently learning a little of everything. But I really need to learn more Python.
 - 💞️ I’m looking to collaborate on anything related to Ecological and Evolutionary Genomics.
 - 📫 How to reach me matthew.wersebe@ou.edu
 
